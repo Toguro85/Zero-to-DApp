@@ -1,0 +1,1 @@
+A simple decentralized app
